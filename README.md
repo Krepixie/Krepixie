@@ -10,6 +10,7 @@ I'm Bianca, I'm a 22-year-old digital illustrator from Brazil and I am currently
 - ***🌱 I’m currently learning ...***
   - HTML5
   - CSS3
+  - Tailwind CSS
   - JavaScript
   - TypeScript
   - React js
