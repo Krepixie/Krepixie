@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
-I'm Bianca, I'm a 22-year-old digital illustrator from Brazil and I am currently studying to become a professional Front-End dev!
+I'm Bianca, I'm a 23-year-old digital illustrator from Brazil and I am currently studying to become a professional Front-End dev!
 - ***🌱 I’m currently learning ...***
   - HTML5
   - CSS3
